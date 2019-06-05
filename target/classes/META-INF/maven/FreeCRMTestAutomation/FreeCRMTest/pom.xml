@@ -22,7 +22,7 @@
 		<version>2.19.1</version>		<!--<version>3.7.0</version> -->
 		<configuration>
 			<suiteXmlFiles>
-				<suiteXmlFile>${SuiteXmlFile}</suiteXmlFile>				
+				<suiteXmlFile>${SuiteFileName}</suiteXmlFile>				
 			</suiteXmlFiles>		
 		</configuration>
 	</plugin>
